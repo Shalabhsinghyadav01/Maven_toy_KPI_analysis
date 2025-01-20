@@ -209,7 +209,7 @@ limit 5;
 - Bundling these frequently bought-together items into **combo deals or promotional discounts** can help **increase basket size and boost revenue**.  
 
 
-## **6.KPI Dashboard**
+## **6. KPI Dashboard**
 
 ### **Overview**
 The KPI Dashboard provides a **comprehensive view** of key business metrics, allowing stakeholders to track performance, identify trends, and make data-driven decisions. Designed to be **interactive and user-friendly**, the dashboard consolidates insights from sales, inventory, and store performance, enabling real-time monitoring of critical business indicators.
